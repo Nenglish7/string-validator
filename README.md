@@ -1,1 +1,1 @@
-[![Build Status](https://travis-ci.org/Nenglish7/security-traits.svg?branch=master)](https://travis-ci.org/Nenglish7/security-traits)
+[![Build Status](https://travis-ci.org/Nenglish7/security-traits.svg?branch=master)](https://travis-ci.org/Nenglish7/security-traits) [![Coverage Status](https://coveralls.io/repos/github/Nenglish7/security-traits/badge.svg?branch=master)](https://coveralls.io/github/Nenglish7/security-traits?branch=master)
