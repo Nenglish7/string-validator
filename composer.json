@@ -1,6 +1,7 @@
 {
     "name": "nenglish7/security-traits",
     "description": "Useful security traits that add an extra layer of security.",
+    "homepage": "https://nenglish7.github.io/security-traits/intro",
     "keywords": [
         "php7",
         "secure-by-default",
