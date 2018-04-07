@@ -1,2 +1,1 @@
-# PasswordExposed
-Check to see if a password has been exposed using HIBP RESTful API.
+[![Build Status](https://travis-ci.org/Nenglish7/security-traits.svg?branch=master)](https://travis-ci.org/Nenglish7/security-traits)
