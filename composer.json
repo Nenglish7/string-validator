@@ -1,12 +1,13 @@
 {
     "name": "nenglish7/security-traits",
-    "description": "A bridge between Genial and with the Pusher REST API.",
+    "description": "Useful security traits that add an extra layer of security.",
     "keywords": [
-        "pusher-http-php",
-        "pusher-bridge",
-        "rest-api"
+        "php7",
+        "secure-by-default",
+        "security-traits",
+        "extra-object-protection"
     ],
-    "license": "MIT",
+    "license": "Apache-2.0",
     "authors": [
         {
             "name": "Nicholas English",
@@ -22,7 +23,7 @@
     },
     "require": {
         "php": ">=7.1"
-    },
+    }
     "require-dev": {
         "phpunit/phpunit": "^7",
         "vimeo/psalm": "^1"
