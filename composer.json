@@ -9,19 +9,19 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Pusher Bridge Contributors",
-            "homepage": "https://github.com/genial-framework/pusher-bridge/graphs/contributors",
-            "role": "Contribute"
+            "name": "Nicholas English",
+            "email": "nenglish6657@gmail.com",
+            "homepage": "https://github.com/Nenglish7",
+            "role": "Develop"
         }
     ],
     "autoload": {
         "psr-4": {
-            "Genial\\Pusher\\": "./src"
+            "Nenglish7\\SecurityTraits\\": "./src"
         }
     },
     "require": {
-        "php": ">=7.2",
-        "pusher/pusher-php-server": "^3",
+        "php": ">=7.1"
     },
     "require-dev": {
         "phpunit/phpunit": "^7",
