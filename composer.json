@@ -1,12 +1,10 @@
 {
-    "name": "nenglish7/security-traits",
-    "description": "Useful security traits that add an extra layer of security.",
-    "homepage": "https://nenglish7.github.io/security-traits/intro",
+    "name": "nenglish-security/string-validator",
+    "description": "An elegant string validator for web application",
     "keywords": [
-        "php7",
+        "elegant-coding",
         "secure-by-default",
-        "security-traits",
-        "extra-object-protection"
+        "string-validator"
     ],
     "license": "Apache-2.0",
     "authors": [
@@ -20,7 +18,8 @@
     "autoload": {
         "psr-4": {
             "Nenglish7\\SecurityTraits\\": "./src"
-        }
+        },
+        "files": ["./polyfill/polyfill.php"]
     },
     "require": {
         "php": ">=7.1"
