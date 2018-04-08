@@ -24,7 +24,7 @@
          timeoutForLargeTests="60"
          verbose="false">
     <testsuites>
-        <testsuite name="Security-Traits Test Suite">
+        <testsuite name="String-Validator Test Suite">
             <directory suffix=".php">./tests</directory>
         </testsuite>
     </testsuites>
@@ -32,6 +32,7 @@
         <whitelist processUncoveredFilesFromWhitelist="true">
             <directory suffix=".php">./src</directory>
             <exclude>
+                <directory>./polyfill</directory>
                 <directory>./vendor</directory>
                 <directory>./build</directory>
             </exclude>
