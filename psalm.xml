@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<psalm name="security-traits static analysis tests."
+<psalm name="Security-Traits Static Analysis Tests."
        stopOnFirstError="false"
        useDocblockTypes="true"
        totallyTyped="true">
