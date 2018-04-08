@@ -4,3 +4,5 @@
 .coveralls.yml export-ignore
 .phpunit.xml export-ignore
 .psalm.xml export-ignore
+/vendor/ export-ignore
+/build/ export-ignore
